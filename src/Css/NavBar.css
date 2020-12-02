@@ -1,0 +1,12 @@
+.navBar {
+}
+.links {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-evenly;
+  background-color: aquamarine;
+}
+/* .ggg{
+    display: flex;
+    padding: 20px;
+} */

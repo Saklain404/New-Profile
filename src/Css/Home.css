@@ -1,0 +1,23 @@
+.card-container {
+  display: flex;
+<<<<<<< HEAD
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+=======
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+>>>>>>> 2f2e6adceb13a9998452df8e5ff65400daace06e
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-weight: bold;
+}
