@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Saklain404/New-Profile/static/css/main.61a5340d.chunk.css",
+    "main.js": "/Saklain404/New-Profile/static/js/main.b52efa74.chunk.js",
+    "main.js.map": "/Saklain404/New-Profile/static/js/main.b52efa74.chunk.js.map",
+    "runtime-main.js": "/Saklain404/New-Profile/static/js/runtime-main.4666eb89.js",
+    "runtime-main.js.map": "/Saklain404/New-Profile/static/js/runtime-main.4666eb89.js.map",
+    "static/css/2.44309f2b.chunk.css": "/Saklain404/New-Profile/static/css/2.44309f2b.chunk.css",
+    "static/js/2.e4d73e5f.chunk.js": "/Saklain404/New-Profile/static/js/2.e4d73e5f.chunk.js",
+    "static/js/2.e4d73e5f.chunk.js.map": "/Saklain404/New-Profile/static/js/2.e4d73e5f.chunk.js.map",
+    "index.html": "/Saklain404/New-Profile/index.html",
+    "precache-manifest.3bb0a8854d35b2c4118d5a8aebffce36.js": "/Saklain404/New-Profile/precache-manifest.3bb0a8854d35b2c4118d5a8aebffce36.js",
+    "service-worker.js": "/Saklain404/New-Profile/service-worker.js",
+    "static/css/2.44309f2b.chunk.css.map": "/Saklain404/New-Profile/static/css/2.44309f2b.chunk.css.map",
+    "static/css/main.61a5340d.chunk.css.map": "/Saklain404/New-Profile/static/css/main.61a5340d.chunk.css.map",
+    "static/js/2.e4d73e5f.chunk.js.LICENSE.txt": "/Saklain404/New-Profile/static/js/2.e4d73e5f.chunk.js.LICENSE.txt",
+    "static/media/AntDesign.ttf": "/Saklain404/New-Profile/static/media/AntDesign.3a2ba315.ttf",
+    "static/media/Entypo.ttf": "/Saklain404/New-Profile/static/media/Entypo.744ce600.ttf",
+    "static/media/EvilIcons.ttf": "/Saklain404/New-Profile/static/media/EvilIcons.140c53a7.ttf",
+    "static/media/Feather.ttf": "/Saklain404/New-Profile/static/media/Feather.6beba7e6.ttf",
+    "static/media/FontAwesome.ttf": "/Saklain404/New-Profile/static/media/FontAwesome.b06871f2.ttf",
+    "static/media/Foundation.ttf": "/Saklain404/New-Profile/static/media/Foundation.e20945d7.ttf",
+    "static/media/Ionicons.ttf": "/Saklain404/New-Profile/static/media/Ionicons.b2e0fc82.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "/Saklain404/New-Profile/static/media/MaterialCommunityIcons.d15c1216.ttf",
+    "static/media/MaterialIcons.ttf": "/Saklain404/New-Profile/static/media/MaterialIcons.a37b0c01.ttf",
+    "static/media/Octicons.ttf": "/Saklain404/New-Profile/static/media/Octicons.73b8cff0.ttf",
+    "static/media/SimpleLineIcons.ttf": "/Saklain404/New-Profile/static/media/SimpleLineIcons.d2285965.ttf",
+    "static/media/Zocial.ttf": "/Saklain404/New-Profile/static/media/Zocial.5cdf883b.ttf",
+    "static/media/photo.jpeg": "/Saklain404/New-Profile/static/media/photo.33c2ecb0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4666eb89.js",
+    "static/css/2.44309f2b.chunk.css",
+    "static/js/2.e4d73e5f.chunk.js",
+    "static/css/main.61a5340d.chunk.css",
+    "static/js/main.b52efa74.chunk.js"
+  ]
+}
