@@ -1,5 +1,4 @@
 import React from 'react'
-<<<<<<< HEAD
 import { Row, Col, Divider } from 'antd';
 
 
@@ -22,13 +21,7 @@ function About() {
                     <div style={style}>col-6</div>
                 </Col>
             </Row>
-=======
 
-function About() {
-    return (
-        <div>
-            <h1>This is About</h1>
->>>>>>> 2f2e6adceb13a9998452df8e5ff65400daace06e
         </div>
     )
 }

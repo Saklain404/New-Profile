@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React, { useState } from 'react';
 import '../Css/Header.css';
 import photo from '../Images/photo.jpeg';
@@ -40,30 +40,7 @@ function Header() {
             <Divider style={{ margin: 0, padding: 0 }} />
         </div>
 
-=======
-import React from 'react';
-import '../Css/Header.css';
-import photo from '../Images/photo.jpeg';
-import NavBar from './NavBar';
-import { Divider } from 'antd';
 
-function Header() {
-    return (
-        <div>
-        <div className='header'>
-            
-            <div className='p-5 ml-10'>
-                <img className='logo' src={photo} />
-            </div>
-                <div className='NavBar' >
-                    <NavBar />
-                </div>
-            
-            </div>
-            <Divider style={{margin: 0, padding:0}} />
-            </div>
-        
->>>>>>> 2f2e6adceb13a9998452df8e5ff65400daace06e
     )
 }
 

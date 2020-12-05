@@ -1,12 +1,8 @@
 .cardd {
   display: flex;
-<<<<<<< HEAD
   margin: 20px;   
   padding-top: 20px; 
-=======
-  margin: 10px;   
-  padding-top: 20px;
->>>>>>> 2f2e6adceb13a9998452df8e5ff65400daace06e
+
 }
 .card-image {
   width: 150px;
@@ -34,13 +30,9 @@ bottom: 0;
 }
 .card-btn{
   /* position: absolute; */
-<<<<<<< HEAD
   left: 80px;
   width: 237px;
-=======
-  left: 120px;
-  width: 250px;
->>>>>>> 2f2e6adceb13a9998452df8e5ff65400daace06e
+
   height: 50px;
   background-color:#06BC9B;;
   color: white;
