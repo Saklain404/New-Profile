@@ -11,11 +11,11 @@ function Footer() {
         <div className='footer'>
             <div className='icons'>
                 <a href="https://www.linkedin.com/in/saklain-8295b2195/">
-                <Ionicons
-                    name='logo-twitter'
-                    color='black'
-                    size={30}
-                    style={{ margin: ["10px , 10px , 0px, 10px"] }}
+                    <Ionicons
+                        name='logo-twitter'
+                        color='black'
+                        size={30}
+                        style={{ margin: ["10px , 10px , 0px, 10px"] }}
                     />
                 </a>
 
@@ -36,11 +36,11 @@ function Footer() {
                     />
                 </a>
                 <a href="https://www.facebook.com/profile.php?id=100009059254949">
-                <Ionicons
-                    name='logo-facebook'
-                    color='black'
-                    size={30}
-                    style={{ margin: '10px' }}
+                    <Ionicons
+                        name='logo-facebook'
+                        color='black'
+                        size={30}
+                        style={{ margin: '10px' }}
                     />
                 </a>
             </div>
