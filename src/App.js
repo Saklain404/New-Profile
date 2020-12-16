@@ -18,7 +18,7 @@ function App() {
       <Header />
       <div className='column screen-container'>
         <Switch>
-          <Route exact path='/' component={Home} />
+          <Route exact path='/New-Profile' component={Home} />
           <Route path='/tutorials' component={Tutorials} />
           <Route path='/contact' component={Contact} />
           <Route path='/about' component={About} />
