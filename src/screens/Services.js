@@ -28,11 +28,11 @@ Highly experienced in designing & developing custom Wordpress websites. </h2>
                     </div>
                 </Col>
                 <Col xs={24} sm={24} md={24} lg={6} align='center' className='mt-4 mb-4' >
-                    <div style={{ backgroundColor: 'red', }} >
-                        <Card className='link_card  ' title="Other Services" style={{ width: 290, backgroundColor: '#ddd', }}>
+                    <div  >
+                        <Card className='link_card  ' title="Other Services" style={{ width: 290, backgroundColor: '#f5f6f7', }}>
                             <div className='p-1 adjust_lines '>
                                 <img className='card_link_photo' src={photo} />
-                                <Link to={"/"}>Home</Link>
+                                <Link to={"/New-Profile"}>Home</Link>
                             </div>
                             <div className='p-1 adjust_lines' >
                                 <img className='card_link_photo' src={photo} />

@@ -5,8 +5,9 @@
   flex-direction: column;
   min-height: 100vh !important;
   /* <<<<<<< HEAD */
-  background-color: darkcyan;
-  font-family: Varela Round;
+  /* background-color: darkcyan; */
+  background-image: url("./Images/wallpaper1.jpg");
+  font-family: Ubuntu; 
   /* justify-content: space-between; */
   width: 100%;
 }
@@ -488,10 +489,7 @@
 
 @media only screen and (min-width: 768px) {
   /* For tablets: */
-  .App {
-    background-color: red;
-    min-height: 100vh !important;
-  }
+ 
   .screen-container {
     min-height: 67vh !important;
   }
@@ -603,9 +601,7 @@
 
 /* @media only screen and (min-width: 992px) { */
 /* For desktop: */
-.App {
-  background-color: green;
-}
+
 .row-lg {
   display: flex;
   flex-direction: row;

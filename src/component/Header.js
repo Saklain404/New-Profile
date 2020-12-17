@@ -5,7 +5,7 @@ import photo from '../Images/photo.jpeg';
 import NavBar from './NavBar';
 import { Divider, } from 'antd';
 import { Row, Col, Drawer } from 'antd'
-import { DownCircleOutlined  } from '@ant-design/icons'
+import { DownCircleOutlined } from '@ant-design/icons'
 import { selectScreen } from '../helpers/screenHelpers';
 
 function Header() {
@@ -14,7 +14,7 @@ function Header() {
         <div>
             <Row className='header' justify={'space-between'} align={selectScreen('middle', 'middle', 'middle', 'top', 'top', 'top')} >
                 <Col className='p-5' span={selectScreen(20, 20, 20, 4)}>
-                  <a href="/"> <img className='logo' src={photo} /> </a>
+                    <a href="/New-Profile"> <img className='logo' src={photo} /> </a>
                 </Col>
                 <Col className='NavBar' span={selectScreen(0, 0, 0, 8)}>
                     <NavBar />
@@ -23,17 +23,17 @@ function Header() {
                     <DownCircleOutlined onClick={() => { setVisible(true) }} style={{ fontSize: 30, }} />
                 </Col>
                 <Drawer
-                    title="Menu"
+                    title="Ggg"
                     placement={'top'}
                     closable={true}
                     onClose={() => { setVisible(false) }}
                     visible={visible}
 
-                    destroyOnClose={true}
-                    
+                    // OnClick={() => { setVisible(false) }}
+
                     key={'ggg'}
                 >
-                    <NavBar />
+                    <NavBar onClick={() => { setVisible(false) }} />
                 </Drawer>
 
             </Row>

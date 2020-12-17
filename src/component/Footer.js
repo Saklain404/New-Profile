@@ -10,7 +10,7 @@ function Footer() {
     return (
         <div className='footer'>
             <div className='icons'>
-                <a href="https://www.linkedin.com/in/saklain-8295b2195/">
+                <a href="https://www.linkedin.com/in/saklain-8295b2195/" target="_blank" title="Linkedin">
                     <Ionicons
                         name='logo-twitter'
                         color='black'
@@ -19,7 +19,7 @@ function Footer() {
                     />
                 </a>
 
-                <a href="https://www.instagram.com/mr.khalid_aziz/">
+                <a href="https://www.instagram.com/mr.khalid_aziz/" target="_blank">
                     <Ionicons
                         name='logo-instagram'
                         color='black'
@@ -27,7 +27,7 @@ function Footer() {
                         style={{ margin: '10px', }}
                     />
                 </a>
-                <a href="https://www.linkedin.com/in/saklain-8295b2195/" >
+                <a href="https://www.linkedin.com/in/saklain-8295b2195/" target="_blank" >
                     <Ionicons
                         name='logo-linkedin'
                         color='black'
@@ -35,7 +35,7 @@ function Footer() {
                         style={{ margin: '10px', }}
                     />
                 </a>
-                <a href="https://www.facebook.com/profile.php?id=100009059254949">
+                <a href="https://www.facebook.com/profile.php?id=100009059254949" target="_blank">
                     <Ionicons
                         name='logo-facebook'
                         color='black'
@@ -43,8 +43,11 @@ function Footer() {
                         style={{ margin: '10px' }}
                     />
                 </a>
+                <a class="bg-facebook" href="https://www.facebook.com/ER.Web.Design.Development" target="_blank" title="Emily Ridge, Galway based Freelance Web Designer &amp; Developer on Facebook"><i class="fa fa-facebook"></i></a>
             </div>
             <div className='footer_link' style={{ display: selectScreen('none', 'none', 'none', 'flex', 'flex', 'flex') }}>
+
+
                 <NavBar />
             </div>
 
