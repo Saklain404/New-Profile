@@ -33,7 +33,7 @@ function Header() {
 
                     key={'ggg'}
                 >
-                    <NavBar onClick={() => { setVisible(false) }} />
+                    <NavBar />
                 </Drawer>
 
             </Row>
